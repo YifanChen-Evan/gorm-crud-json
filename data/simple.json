@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "John Smith",
+      "age": 25,
+      "gender": "Male",
+      "nationality": "Irish",
+      "email": "john@example.com",
+      "department": "Engineering",
+      "reason": "Vacation",
+      "startDate": "2023-01-01",
+      "daysOff": 10
+    },
+    {
+      "id": 2,
+      "name": "Jane Miller",
+      "age": 30,
+      "gender": "Female",
+      "nationality": "American",
+      "email": "jane@example.com",
+      "department": "Engineering",
+      "reason": "Sick",
+      "startDate": "2023-01-22",
+      "daysOff": 7
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "age": 35,
+      "gender": "Male",
+      "nationality": "Brazilian",
+      "email": "bob@example.com",
+      "department": "Marketing",
+      "reason": "Sick",
+      "startDate": "2023-02-10",
+      "daysOff": 5
+    },
+    {
+      "id": 4,
+      "name": "Lisa Garcia",
+      "age": 24,
+      "gender": "Female",
+      "nationality": "Irish",
+      "email": "lisa@example.com",
+      "department": "HR",
+      "reason": "Business Trip",
+      "startDate": "2023-02-10",
+      "daysOff": 7
+    },
+    {
+      "id": 5,
+      "name": "Jenney Garcia",
+      "age": 26,
+      "gender": "Female",
+      "nationality": "Korean",
+      "email": "jenney@example.com",
+      "department": "HR",
+      "reason": "Business Trip",
+      "startDate": "2023-02-10",
+      "daysOff": 7
+    },
+    {
+      "id": 6,
+      "name": "David Williams",
+      "age": 30,
+      "gender": "Male",
+      "nationality": "British",
+      "email": "david@example.com",
+      "department": "Marketing",
+      "reason": "Vacation",
+      "startDate": "2023-03-12",
+      "daysOff": 12
+    },
+    {
+      "id": 7,
+      "name": "Rose Hernandez",
+      "age": 25,
+      "gender": "Female",
+      "nationality": "Australian",
+      "email": "rose@example.com",
+      "department": "Engineering",
+      "reason": "Business Trip",
+      "startDate": "2023-04-30",
+      "daysOff": 5
+    },
+    {
+      "id": 8,
+      "name": "Emily Jones",
+      "age": 36,
+      "gender": "Female",
+      "nationality": "French",
+      "email": "emily@example.com",
+      "department": "Marketing",
+      "reason": "Business Trip",
+      "startDate": "2023-05-27",
+      "daysOff": 3
+    },
+    {
+      "id": 9,
+      "name": "Fran Rodriguez",
+      "age": 40,
+      "gender": "Male",
+      "nationality": "German",
+      "email": "frank@example.com",
+      "department": "Engineering",
+      "reason": "Vacation",
+      "startDate": "2023-06-06",
+      "daysOff": 10
+    },
+    {
+      "id": 10,
+      "name": "Kristin Hernandez",
+      "age": 24,
+      "gender": "Female",
+      "nationality": "American",
+      "email": "kristin@example.com",
+      "department": "HR",
+      "reason": "Sick",
+      "startDate": "2023-06-19",
+      "daysOff": 5
+    }
+  ]
